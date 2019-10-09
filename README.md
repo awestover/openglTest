@@ -2,6 +2,8 @@
 # Project decsription
 I am exploring OpenGL with the purpose of eventually making a 3d game
 
+![cool 3d cube picture](cubes.png "Cube")
+
 # Resources
 I like this tutorial:
 http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/
